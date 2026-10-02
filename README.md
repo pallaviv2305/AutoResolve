@@ -64,5 +64,3 @@ A critical complaint containing terms such as fire, gas leak, smoke, shock, dang
 pytest
 ```
 
-## Hackathon note
-This is a prototype. Production deployment should add authentication, role-based access, secure secrets, stronger classification, audit logging, and validated escalation policies.
