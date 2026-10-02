@@ -54,7 +54,7 @@ Expected processing:
 - Category: Plumbing
 - Priority: High
 - Team: Plumbing Team
-- Status: Pending
+- Status: resolve
 
 A critical complaint containing terms such as fire, gas leak, smoke, shock, danger, or flood is automatically marked as Escalated.
 
